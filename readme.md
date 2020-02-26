@@ -1,4 +1,6 @@
-Projeto  feito com framework laravel 5.4
+#Oficina 2.0 :blue_car:
+
+##Projeto  feito com framework laravel 5.4
 
 primeiro deve criar um banco de dados com o nome "clientes'
 executar a migration via php artisan no terminal  (php artisan make:migrate)
