@@ -2,7 +2,7 @@
 
 ##Projeto  feito com framework laravel 5.4
 
-primeiro deve criar um banco de dados com o nome "clientes'
+primeiro deve-se criar um banco de dados com o nome "clientes" no php admin ou outro gerenciador de bd.
 executar a migration via php artisan no terminal  (php artisan make:migrate)
 
 o código possui um arquivo  seeder para popular o banco de dados como teste, basta usar  o comando (php artisan db:seed) via terminal.
